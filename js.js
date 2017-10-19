@@ -1,4 +1,4 @@
-var git ='Hello git';
+
 
 var nam = prompt("введите число ","");
 switch (nam){
@@ -9,7 +9,7 @@ switch (nam){
         alert ('это'+ nam);
         break;
 }
-
+// дороботоать
 /*var isAdmin = confirm("Вы - администратор?");
 alert (isAdmin);
 switch (isAdmin){
@@ -21,5 +21,6 @@ switch (isAdmin){
     alert ('bad');
         break;
 }
+
 
 
